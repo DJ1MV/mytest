@@ -5,3 +5,12 @@ Und sie ist etwas größer als die erste und zweite - oder ??
 Und das ist noch die erste Version dieser Datei.
 
 So - das sind jetzt genut Musterfiles.
+# 6.6.20 - und die DREI wird damit jetzt auch noch geändert.
+
+Wohl gemerkt sind wir hier immer noch auf der lokalen Ebene, es ist nichts auf GITHUB davon hochgeladen worden.
+
+IDEE:
+Eigene Dateien auf dem Webserver (ohne Bilder in Foto) mit Hilfe des Tools verwalten und so eine bessere Übung damit erreichen.
+Änderungsmanagement dann direkt darüber ausüben.
+Frage: Reichen die 500MB freier Speicher dafür aus?
+Falls nicht, könnte das ja auf der eigenen Synology laufen.

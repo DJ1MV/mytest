@@ -3,3 +3,5 @@ Das ist der zweite Datei.
 Da steht auch nicht viel drin.
 Und sie ist auch nicht groß.
 Und das ist noch die erste Version dieser Datei.
+# --- 6.6.20 --- Jetzt auch Neues für die Datei ZWEI
+Und diese Zeile ist schon die ganze Erweiterung.
