@@ -13,7 +13,7 @@
 * in einer Bullet Liste
 * Fertig!
 
-![Hier kommt ein Logo rein!](www.penzenstadler.de/FP2018/foto_domain/Logo_FP2ss.jpg)
+![Hier kommt ein Logo rein!](/Logo_FP2ss.jpg)
 
 
 #Ende
