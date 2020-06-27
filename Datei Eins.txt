@@ -5,4 +5,6 @@ Und sie ist auch nicht groß.
 # 6.6.20 Addon
 Dies ist eine Ergänzung, denn heute will ich ja da weiter testen.
 Damit hat Datei Eins eine neue Version Eins-0.2 - fallsl die allererste nur die Eins-0.1 war.
+
+Änderung am 27. Juni, um das angesetzte Issue zu erfüllen udn eine Änderung einzubringen ... for exercise purpose only.
 -eof-
